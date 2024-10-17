@@ -10,7 +10,7 @@
 
 -----
 
-![profile count](https://komarev.com/ghpvc/?username=emadasefi&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=emadasefi)&nbsp;
 [![GitHub avinash201199](https://img.shields.io/github/followers/emadasefi?label=follow&style=social)](https://github.com/emadasefi)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
